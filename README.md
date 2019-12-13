@@ -1,3 +1,3 @@
 # EU-M4
-Test board scheme.
+Test board and DSO project schemes.
 Code in branches.
